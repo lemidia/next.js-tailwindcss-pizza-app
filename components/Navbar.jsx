@@ -2,8 +2,8 @@ import React from "react";
 import Image from "next/image";
 function Navbar() {
   return (
-    <div className="bg-red-500">
-      <div className="container mx-auto h-[100px] px-[50px] flex items-center justify-between sticky top-0">
+    <div className="bg-red-500 sticky top-0">
+      <div className="container mx-auto h-[100px] px-[50px] flex items-center justify-between">
         <div className="flex items-center flex-[1]">
           <div className=" bg-white rounded-xl p-2 w-12 h-12">
             <img className="" src="/img/telephone.png" alt="phone" />
