@@ -5,4 +5,3 @@ function about() {
 }
 
 export default about;
-about;

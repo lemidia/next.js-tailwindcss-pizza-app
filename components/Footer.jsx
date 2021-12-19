@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="h-[700px] bg-stone-800 flex">
+    <div className="h-[700px] bg-stone-800 flex mt-auto">
       <div className="flex-1">
         <img className="h-[100%] object-cover" src="/img/bg.png" alt="" />
       </div>
